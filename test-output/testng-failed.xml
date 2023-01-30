@@ -7,7 +7,7 @@
         <methods>
           <include name="beforeTest"/>
           <include name="afterTest"/>
-          <include name="ts_01_LoginWithValid"/>
+          <include name="ts_02_LoginUsingUrlAndValidInfo"/>
         </methods>
       </class> <!-- com.guru99.demo.TS_Login -->
     </classes>
